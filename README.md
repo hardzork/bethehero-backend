@@ -50,7 +50,7 @@ Be the Hero is a platform that aims to help non-governmental organizations to ra
 - Push to the branch: `git push origin my-new-feature`.
 - Submit a pull request :D
 
-## :memo: Licença
+## :memo: License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 

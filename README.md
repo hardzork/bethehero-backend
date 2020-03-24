@@ -36,7 +36,11 @@
 
 This project was developed with the following technologies:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [Nodemon](https://nodemon.io/)
+- [SQLite](https://www.sqlite.org/)
+- [Knex.js](https://knexjs.org/)
 
 ## 💻 Project
 

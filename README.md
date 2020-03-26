@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#bethehero" src=".github/bethehero-logo.png" width="200px" />
+    <img alt="BeTheHero" title="#bethehero" src=".github/logo.svg" width="200px" />
     <br>
     <i><b>Backend</b></i>
 </h1>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="#rocket-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>

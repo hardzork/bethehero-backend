@@ -41,6 +41,10 @@ This project was developed with the following technologies:
 - [Nodemon](https://nodemon.io/)
 - [SQLite](https://www.sqlite.org/)
 - [Knex.js](https://knexjs.org/)
+- [Celebrate](https://github.com/arb/celebrate/)
+- [Jest](https://jestjs.io/)
+- [cross-env](https://github.com/kentcdodds/cross-env)
+- [Supertest](https://github.com/visionmedia/supertest)
 
 ## 💻 Project
 
